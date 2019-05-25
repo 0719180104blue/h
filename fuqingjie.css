@@ -1,0 +1,146 @@
+.page1{
+    background: burlywood;
+}
+.page1 img {
+    position: absolute;
+    
+    
+}
+
+.page1 img:nth-of-type(1) {
+    width: 7.2rem;
+    height: 6.1rem;
+    margin-top: 2.9rem;
+    opacity: 0.5;
+}
+.page1 img:nth-of-type(2) {
+    width: 7.2rem;
+    height: 3.53rem;
+    margin-top: 9rem;
+   margin-left: .4rem;
+ 
+}
+.page1 img:nth-of-type(3) {
+    width: .8rem;
+    height: .72rem;
+    margin-top: 4.5rem;
+    margin-left: .9rem;
+}
+.page1 img:nth-of-type(4) {
+    width: .7rem;
+    height: .57rem;
+    margin-top: 3.5rem;
+    margin-left: .4rem;
+}
+.page1 img:nth-of-type(5){
+    width: 15rem;
+    height: 18.4rem;
+}
+.page2{
+    background: burlywood;
+}
+.page2 img {
+    position: absolute;
+    
+    
+}
+.page2 img:nth-of-type(1) {
+    width: 7.2rem;
+    height: 6.1rem;
+    margin-top: 2.9rem;
+    opacity: 0.2;
+}
+.page2 img:nth-of-type(2) {
+    width: .8rem;
+    height: .72rem;
+    margin-top: 4.5rem;
+    margin-left: .9rem;
+    opacity: 0.4
+}
+.page2 img:nth-of-type(3) {
+    width: .7rem;
+    height: .57rem;
+    margin-top: 3.5rem;
+    margin-left: .4rem;
+    opacity: 0.4;
+}
+.page2 img:nth-of-type(4){
+    width: 15rem;
+    height: 18.4rem;
+    opacity: 0.4
+}
+.page2 img:nth-of-type(5){
+    width: 7rem;
+    height: 4rem;
+    margin-top: 9.1rem;
+    margin-left: .25rem;
+}
+.page2 img:nth-of-type(6){
+    width: 7.05rem;
+    height: 11.8rem;
+    margin-top: 1.35rem;
+    margin-left: .2rem;
+}
+.page2 span{
+    display: inline-block;
+    font-family: "楷体";
+    font-size: 20px;
+    margin-top: 27px;
+    margin-left: 22px;
+    margin-right: 22px;
+}
+.page2 h1{
+    font-size: 26px;
+    padding-top: 90px;
+    padding-left: 144px;
+}
+.page3{
+    background: burlywood;
+}
+.page3 img {
+    position: absolute;
+    
+    
+}
+.page3 img:nth-of-type(1) {
+    width: 7.2rem;
+    height: 6.1rem;
+    margin-top: 2.9rem;
+    opacity: 0.2;
+}
+.page3 img:nth-of-type(2) {
+    width: .8rem;
+    height: .72rem;
+    margin-top: 4.5rem;
+    margin-left: .9rem;
+    opacity: 0.4
+}
+.page3 img:nth-of-type(3) {
+    width: .7rem;
+    height: .57rem;
+    margin-top: 3.5rem;
+    margin-left: .4rem;
+    opacity: 0.4;
+}
+.page3 img:nth-of-type(4) {
+    width: .7rem;
+    height: .57rem;
+    margin-top: 5.5rem;
+    margin-left: .87rem;
+   
+}
+.page3 img:nth-of-type(5) {
+    width: 5.7rem;
+    height: 3.7rem;
+    margin-top: 9.5rem;
+    margin-left: .87rem;
+}
+.page3 span{
+    display: inline-block;
+    font-family: "楷体";
+    font-size: 36px;
+    margin-top: 220px;
+    margin-left: 22px;
+    margin-right: 22px;
+    line-height: 2;
+}
